@@ -1,0 +1,27 @@
+<svg width="48" height="48" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Ellipse 14</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-11118 -3837)">
+<rect x="11118" y="3837" width="48" height="48" fill="#E5E5E5"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 10999 3259L 12439 3259L 12439 7351L 10999 7351L 10999 3259Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="&#208;&#154;&#208;&#190;&#208;&#189;&#209;&#130;&#208;&#176;&#208;&#186;&#209;&#130; 2.1(Open Sans)" clip-path="url(#clip-0)">
+<path d="M 10999 3259L 12439 3259L 12439 7351L 10999 7351L 10999 3259Z" fill="#FFFFFF"/>
+<g id="Group">
+<g id="Ellipse 14">
+<use xlink:href="#path0_fill" transform="translate(11118 3837)" fill="#F1F1F1"/>
+</g>
+<g id="ic_phone_black_24px 2">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(11133 3851)" fill="#E91A47"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 48 24C 48 37.2548 37.2548 48 24 48C 10.7452 48 0 37.2548 0 24C 0 10.7452 10.7452 0 24 0C 37.2548 0 48 10.7452 48 24Z"/>
+<path id="path1_fill" d="M 3.62 7.79C 5.06 10.62 7.38 12.93 10.21 14.38L 12.41 12.18C 12.68 11.91 13.08 11.82 13.43 11.94C 14.55 12.31 15.76 12.51 17 12.51C 17.55 12.51 18 12.96 18 13.51L 18 17C 18 17.55 17.55 18 17 18C 7.61 18 0 10.39 0 1C 0 0.45 0.45 0 1 0L 4.5 0C 5.05 0 5.5 0.45 5.5 1C 5.5 2.25 5.7 3.45 6.07 4.57C 6.18 4.92 6.1 5.31 5.82 5.59L 3.62 7.79Z"/>
+</defs>
+</svg>

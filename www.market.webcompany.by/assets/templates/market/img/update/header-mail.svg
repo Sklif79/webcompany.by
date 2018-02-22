@@ -1,0 +1,16 @@
+<svg width="35" height="23" viewBox="0 0 35 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>envelope</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(149 -4846)">
+<g id="envelope">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-149 4846)" fill="#333333"/>
+<use xlink:href="#path1_fill" transform="translate(-149 4846)" fill="#333333"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4 0L 31 0C 33.2091 0 35 1.79086 35 4L 35 19C 35 21.2091 33.2091 23 31 23L 4 23C 1.79086 23 0 21.2091 0 19L 0 4C 0 1.79086 1.79086 0 4 0ZM 4 1C 2.34315 1 1 2.34315 1 4L 1 19C 1 20.6569 2.34315 22 4 22L 31 22C 32.6569 22 34 20.6569 34 19L 34 4C 34 2.34315 32.6569 1 31 1L 4 1Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 12.0155 10.6943L 1.95699 2.65061L 2.58154 1.86963L 13.0855 10.2696L 17.5001 13.7999L 21.9146 10.2696L 32.4185 1.86963L 33.0431 2.65061L 22.9846 10.6943L 33.077 20.3794L 32.3846 21.1009L 22.1968 11.3243L 17.8123 14.8306L 17.5001 15.0803L 17.1878 14.8306L 12.8032 11.3243L 2.61549 21.1009L 1.9231 20.3794L 12.0155 10.6943Z"/>
+</defs>
+</svg>

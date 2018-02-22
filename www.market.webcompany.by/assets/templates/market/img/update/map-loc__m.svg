@@ -1,0 +1,14 @@
+<svg width="13" height="19" viewBox="0 0 13 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Map place</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(265 -5245)">
+<g id="Map place">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-265 5245)" fill="#F82900"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 6.5 0C 2.90643 0 0 2.9735 0 6.65C 0 11.6375 6.5 19 6.5 19C 6.5 19 13 11.6375 13 6.65C 13 2.9735 10.0936 0 6.5 0ZM 6.5 9.025C 5.21857 9.025 4.17857 7.961 4.17857 6.65C 4.17857 5.339 5.21857 4.275 6.5 4.275C 7.78143 4.275 8.82143 5.339 8.82143 6.65C 8.82143 7.961 7.78143 9.025 6.5 9.025Z"/>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="34" height="35" viewBox="0 0 34 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-40079 -7290)">
+<g id="Group">
+<g id="search 2">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(40079 7290)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="Rectangle 165">
+<use xlink:href="#path1_fill" transform="translate(40087 7303)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 165">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 40094 7298)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 33.4831 31.8795L 25.1015 23.2158C 27.2565 20.6697 28.4373 17.4662 28.4373 14.1312C 28.4373 6.3394 22.0587 0 14.2186 0C 6.37861 0 1.68026e-08 6.3394 1.68026e-08 14.1312C 1.68026e-08 21.9231 6.37861 28.2625 14.2186 28.2625C 17.1619 28.2625 19.9667 27.3802 22.3647 25.7053L 30.8099 34.4348C 31.1629 34.7991 31.6377 35 32.1465 35C 32.6281 35 33.0849 34.8175 33.4317 34.4857C 34.1686 33.781 34.1921 32.6124 33.4831 31.8795ZM 14.2186 3.68641C 20.0137 3.68641 24.7281 8.37184 24.7281 14.1312C 24.7281 19.8906 20.0137 24.5761 14.2186 24.5761C 8.42362 24.5761 3.70921 19.8906 3.70921 14.1312C 3.70921 8.37184 8.42362 3.68641 14.2186 3.68641Z"/>
+<path id="path1_fill" d="M 0 1C 0 0.447715 0.447715 0 1 0L 11 0C 11.5523 0 12 0.447715 12 1C 12 1.55228 11.5523 2 11 2L 1 2C 0.447715 2 0 1.55228 0 1Z"/>
+</defs>
+</svg>
